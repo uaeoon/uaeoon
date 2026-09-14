@@ -41,5 +41,5 @@
 
 ### 🏅 Certifications
 
-- **SQLD · SQL 개발자** <sub>2026.08</sub>
-- **ADsP · 데이터분석 준전문가** <sub>2026.08</sub>
+- SQLD · SQL 개발자 <sub>2026.08</sub>
+- ADsP · 데이터분석 준전문가 <sub>2026.08</sub>
