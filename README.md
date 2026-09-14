@@ -19,7 +19,7 @@
 
 ### 🖥️ Projects
 
-🌍 [CoTempo — 글로벌 팀을 위한 AI 일정 조율 서비스](https://github.com/likelion-hackathon-cotempo/backend) <sub>BE·AI|2026.07 – 2026.08</sub>
+🌍 [CoTempo — 글로벌 팀을 위한 AI 일정 조율 서비스](https://github.com/likelion-hackathon-cotempo/backend) <sub>BE·AI | 2026.07 – 2026.08</sub>
 
 > 서로 다른 국가와 시간대에서 활동하는 팀원들의 일정을 통합하고, 모두가 참여하기 좋은 회의 시간과 프로젝트 마일스톤을 AI로 추천하는 협업 서비스입니다.
 
@@ -28,7 +28,7 @@
 - 팀원의 시간대와 일정 충돌도를 반영한 회의 후보 계산 및 AI 추천 기능 구현
 - OpenAI API 기반 마일스톤 추천 및 추천 결과 일괄 등록 기능 구현
 
-💰 [Peerfolio — Peer Group 기반 AI 금융 분석 서비스](https://github.com/please-2000won/Backend) <sub>BE·AI·DevOps|2026.08 – 2026.09</sub>
+💰 [Peerfolio — Peer Group 기반 AI 금융 분석 서비스](https://github.com/please-2000won/Backend) <sub>BE·AI·DevOps | 2026.08 – 2026.09</sub>
 
 > 경제적 여건이 유사한 사용자 그룹과의 비교를 통해 자신의 자산 구성과 투자 위험 요인을 객관적으로 점검할 수 있도록 돕는 금융 분석 서비스입니다.
 
