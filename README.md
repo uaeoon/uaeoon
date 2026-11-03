@@ -19,7 +19,7 @@
 
 ### 🖥️ Projects
 
-🐱 [COZ:E — 게이미피케이션 경제 퀴즈 플랫폼](https://github.com/likelion-demoday-coze/Backend) BE·Observability | 2026.09 – 진행 중
+🐱 [COZ:E — 게이미피케이션 경제 퀴즈 플랫폼](https://github.com/likelion-demoday-coze/Backend) <sub>BE·Observability | 2026.09 – 진행 중</sub>
 
 > 매일 5문제의 경제 퀴즈와 주가·랭킹·연속 학습 시스템을 통해 경제 공부를 쉽고 꾸준하게 이어갈 수 있도록 돕는 게이미피케이션 학습 서비스입니다.
 
