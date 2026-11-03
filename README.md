@@ -19,6 +19,15 @@
 
 ### 🖥️ Projects
 
+🐱 [COZ:E — 게이미피케이션 경제 퀴즈 플랫폼](https://github.com/likelion-demoday-coze/Backend) BE·Observability | 2026.09 – 진행 중
+
+> 매일 5문제의 경제 퀴즈와 주가·랭킹·연속 학습 시스템을 통해 경제 공부를 쉽고 꾸준하게 이어갈 수 있도록 돕는 게이미피케이션 학습 서비스입니다.
+
+- 데일리·맛보기·타임어택 퀴즈 API와 캐릭터 진화 로직 구현
+- 주가·타임어택 랭킹 산정, 보상 지급 및 일일 정산 스케줄러 구현
+- 페이앱 결제 연동과 일주일 패스 발급·만료·환불 및 재처리 로직 구현
+- OpenTelemetry·Grafana 기반 결제 로그·지표·트레이스 수집 및 Discord 장애 알림 구성
+
 💰 [Peerfolio — Peer Group 기반 AI 금융 분석 서비스](https://github.com/please-2000won/Backend) <sub>BE·AI·DevOps | 2026.08 – 2026.09</sub>
 
 > 경제적 여건이 유사한 사용자 그룹과의 비교를 통해 자신의 자산 구성과 투자 위험 요인을 객관적으로 점검할 수 있도록 돕는 금융 분석 서비스입니다.
